@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/0f837155-e232-48d2-bdb4-1184bf90d5a1/resourceGroups/web-app/providers/Microsoft.Web/sites/SummarizationModelAPI",
+    "appService.deploySubpath": "."
+}
