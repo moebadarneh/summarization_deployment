@@ -11,7 +11,7 @@ It integrates model inference with an API framework and includes CI/CD automatio
 - CI/CD pipeline with **GitHub Actions**
 - Easy reproducibility with `requirements.txt`
 
-
+# test fivetran 
 
 
 
